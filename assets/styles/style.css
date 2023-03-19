@@ -1,0 +1,33 @@
+html {
+  scroll-behavior: smooth;
+}
+
+h1,
+h2,
+h3,
+p,
+ul {
+  margin: 0 0;
+  padding: 0 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+.nav-link {
+  color: rgb(156, 154, 154);
+}
+
+.nav-link:hover {
+  color: white;
+}
+
+.nav-link:focus {
+  color: white;
+}
